@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An AI Chatbot, named Brainwave. It is fully responsive website which is developed using React. It uses Talwind CSS for styling and is deployed using Vercel.
+<br/>
+It has many modern designs, in Hero Section. It aslo has the latest bento box design.
+<br/>
+It has various sections like Hero Section, Features, Pricing and Roadmap.
+<br/>
+It can be viewed here: https://brainwave-three-swart.vercel.app/
